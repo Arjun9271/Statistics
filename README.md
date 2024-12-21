@@ -1,9 +1,5 @@
 # 📊 Statistics Quick Recall for Interviews 🚀
 
-Welcome to this quick recall notebook for statistics concepts! Perfect for interviews and rapid revision. 📒✨
-
----
-
 ## 🎯 **Key Concepts**
 
 ### 📌 Descriptive Statistics
@@ -45,13 +41,7 @@ Welcome to this quick recall notebook for statistics concepts! Perfect for inter
 - **Cluster Sampling**: Randomly selects entire clusters.
 - **Systematic Sampling**: Every nth member is chosen.
 
-### 📌 Key Formulas
-- **Mean**: \( \mu = \frac{\sum X}{N} \)
-- **Variance**: \( \sigma^2 = \frac{\sum (X - \mu)^2}{N} \)
-- **Standard Deviation**: \( \sigma = \sqrt{\sigma^2} \)
-- **Z-Score**: \( Z = \frac{X - \mu}{\sigma} \)
 
----
 
 ## 🌟 **Useful Visuals**
 - 📈 **Histograms**: Visualize data distributions.
